@@ -8,9 +8,9 @@ Overview
 
 This project is mainly forked from https://github.com/raphirm/InversePendulum and re-implemented by Scala. All credit should go to the authors of the orignal project: Roger Bollmann and Raphael Marques.
 
-Thanks to the tool of https://github.com/mysema/scalagen and IntelliJ Idea Scala plugin, I can do the major Scala implementation by automatically cover the Java Code to Scala Code.
+Thanks to the tool of https://github.com/mysema/scalagen and IntelliJ Idea Scala plugin, I can do the major Scala implementation by automatically coverting the Java Code to Scala Code.
 
-My contribution only covers the troubleshooting, debugging and German to English language translation (also thanks to Google Translate). 
+My contribution only cover the troubleshooting, debugging and German to English language translation (also thanks to Google Translate). 
 
 Demo shows:
 
