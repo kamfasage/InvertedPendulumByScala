@@ -12,6 +12,10 @@ Thanks to the tool of https://github.com/mysema/scalagen and IntelliJ Idea Scala
 
 My contribution only covers the troubleshooting, debugging and German to English language translation (also thanks to Google Translate). 
 
+Demo shows:
+
+![Demo](images/demo.gif)  
+
 Here are the brief summary of design doc translated from the original German docs:
 
 ------------------------------------------------
@@ -58,5 +62,6 @@ In principle, we divided into five components:
 
 Physical Simulation
 --
-kinematics
+Kinematics
 
+Not Completed. To be continue.
