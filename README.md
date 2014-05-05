@@ -51,7 +51,7 @@ Architecture
 --
 Our application is built roughly the following approach. We tried to achieve consistent pattern (Factory and Strategy Pattern) a loose coupling as possible. Unfortunately, the architecture may have waned somewhat enlarged complexity. Due to the lack of time we could refactor only about 80%. However, we think that the architecture was largely adhered to, and the application has an above average standard.
 
-[png]
+![class_diagram](images/class_diagram.png)  
 
 In principle, we divided into five components: 
 * 1.  GUI: All the user sees is the GUI package. The control frame is the interface to the actual program. The controller (and initially the Factory) is in Control Frame instantiated. 
